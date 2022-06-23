@@ -8,7 +8,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https://blog.csdn.net/weixin_44255044?spm=1011.2415.3001.5343"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 153 原创文章，14万阅读
+-   <a href="https://blog.csdn.net/weixin_44255044?spm=1011.2415.3001.5343"><code><img height="20" width="50" src="https://img-home.csdnimg.cn/images/20201124032511.png"></code></a>：发表了 153 原创文章，14万阅读
 
 ### **技术栈:**
 
