@@ -1,14 +1,14 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## 前端工程师—Colesyn L
 
-热爱前端、热爱技术。工作经验9个月。喜欢参与一些开源项目的讨论。
+大鹏展翅,扶摇能上九万里！
 
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 30 篇技术文章，7万阅读
+-   <a href="https://blog.csdn.net/weixin_44255044?spm=1011.2415.3001.5343"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 153 原创文章，14万阅读
 
 ### **技术栈:**
 
