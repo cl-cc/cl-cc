@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—Colesyn L
+## 前端工程师—Cheng Lucky
 
 大鹏展翅,扶摇能上九万里！
 
